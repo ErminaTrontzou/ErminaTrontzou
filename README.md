@@ -11,8 +11,8 @@
   <a href="https://www.facebook.com/ermina.trontzou/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo"  />
   </a>
-  <a href="https://www.youtube.com/channel/UCL3GdXu2_yzyj9G4xoKMjTg" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
+  <a href="https://www.linkedin.com/in/ermina-trontzou-4ba7b1296/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Linkedin&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
 </div>
 
